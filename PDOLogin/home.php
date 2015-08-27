@@ -19,3 +19,8 @@
         
         <br> <a href="index.php" title=""><button>Logout</button></a> 
 </div>
+<?php
+
+    echo '';
+    
+?>
